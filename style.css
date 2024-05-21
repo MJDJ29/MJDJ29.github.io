@@ -1,0 +1,77 @@
+body {
+    color: yellow;  
+    background-color: darkblue;
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+h1 {
+    font-family: 'Sedan SC', cursive;
+    text-decoration: underline;
+    font-style: italic;
+    text-align: center;
+}
+
+h2,
+h3 {
+    font-family: 'Sedan SC', cursive;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.intro,
+.section {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.intro h1,
+.intro h3,
+.list {
+    text-align: center;
+}
+
+.list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.list li {
+    margin: 10px 0;
+}
+
+.list a {
+    color: yellow;
+    text-decoration: none;
+}
+
+.list a:hover {
+    color: red;
+    font-family: 'Titillium Web', cursive;
+}
+
+.lang {
+    font-family: 'Poetsen One', sans-serif;
+}
+
+.section {
+    font-family: 'Oswald', cursive;
+}
+
+a {
+    color: yellow;
+}
+
+a:hover {
+    color: red;
+    font-family: 'Titillium Web', cursive;
+}
+
+    
+    
+
